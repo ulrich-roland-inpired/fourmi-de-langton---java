@@ -31,5 +31,5 @@ un nombre de pas suffisant!
 
 N'ésitez pas à  me dire si une partie du code vous semble obscure et me faire part de toute remarque. 
 
-J'ai écrit ce programme dans le but de travailler sur Java, ma compréhension du pattern MVC et des méthodes du Génie Logiciel.
+J'ai réalisé ce projet avec l'intention d'améliorer mon style de travail en Java, ma compréhension du pattern Modèle Vue Contrôleur (MVC) et des méthodes du Génie Logiciel.
 ================================================================================================================================
