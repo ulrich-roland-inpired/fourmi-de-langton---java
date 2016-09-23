@@ -9,7 +9,7 @@ permettant de mettre en évidence un exemple de comportement émergent.
 
 ================================================================================================================================
 
-Ce document intitulé « # fourmi-de-langton---java » est mis à disposition sous les termes de la licence Creative Commons.
+Ce document intitulé « FOURMI DE LANGTON » est mis à disposition sous les termes de la licence Creative Commons.
 Vous pouvez copier, modifier des copies de cette source, dans les conditions fixées par la licence, tant que cette note y
 apparaît clairement.
 
